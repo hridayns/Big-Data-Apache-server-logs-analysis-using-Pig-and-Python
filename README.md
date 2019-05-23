@@ -5,5 +5,5 @@ This repository contains code to analyze Apache server logs to find the most vis
 # Contents
 
 - *shareFiles/pig_script .py* contains code to compute the page hits and store them.
-- *shareFiles/scipt .py* contains the Python UDF to parse the sample Apache logs.
+- *shareFiles/script .py* contains the Python UDF to parse the sample Apache logs.
 - *shareFiles/sample_log* contains the sample logs on which the scripts are run.
