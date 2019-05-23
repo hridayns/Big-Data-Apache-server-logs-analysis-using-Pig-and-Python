@@ -1,6 +1,6 @@
 # Project Details
 
-This repository contains code to analyze Apache server logs to find the most visited website using Apache Hadoop's Pig script extended using Python's User-defined Functions (UDF). It was run on an Ubuntu instance deployed on the Oracle's VMware with the help of Vagrant.
+This repository contains code to analyze Apache server logs to find the most visited website using Apache Hadoop's Pig script extended using Python's User-defined Functions (UDF). It was run on an Ubuntu instance deployed on Oracle's VMware with the help of Vagrant.
 
 # Contents
 
